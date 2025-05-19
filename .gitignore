@@ -1,0 +1,24 @@
+# Unity: carpetas que no se deben subir
+[Libraries to ignore]
+[Libraries to ignore]
+Temp/
+Library/
+Logs/
+UserSettings/
+Build/
+Builds/
+
+# Visual Studio / VSCode
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.booproj
+*.svd
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
